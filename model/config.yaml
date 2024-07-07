@@ -1,0 +1,8 @@
+path: D:\Tharushi\Detection\SignatureDetection\output\train # dataset root directory
+train: images\train # train images (relative to 'path')
+val: images\valid # val images(relative to 'path')
+
+#different classes which is detecting
+names:
+  0: logo
+  1: signature
